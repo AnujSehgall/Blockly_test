@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/anuj/Downloads/blockly-android-master/blocklytest/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/anuj/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.2.aar/ee87a677d9cb1351d25a44301017a160/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+# Referenced at /home/anuj/Downloads/blockly-android-master/blocklytest/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:19
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+
+# Referenced at /home/anuj/Downloads/blockly-android-master/blocklytest/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml:9
+-keep class android.support.test.runner.AndroidJUnitRunner { <init>(...); }
+
